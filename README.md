@@ -1,4 +1,4 @@
-This is learning material for blockchain app dev tutorial "Syscoin + 0MQ + Node.js for Real Time Blockchain Apps".
+This is learning material for blockchain app dev tutorial "Syscoin + 0MQ + Node.js Towards Real Time Blockchain Apps".
 
 https://www.youtube.com/watch?v=y8Frcabtdmo&feature=youtu.be
 
